@@ -1,5 +1,5 @@
 # Everyday_SQL
-100 days of SQL
+
 +----------------+---------+
 | Column Name    | Type    |
 +----------------+---------+
